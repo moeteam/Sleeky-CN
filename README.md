@@ -1,16 +1,14 @@
-[![sleeky logo](sleeky-frontend/frontend/assets/img/logo-small.png)](https://sleeky.flynntes.com)
+[YOURLS](https://github.com/YOURLS/YOURLS) 短网址程序下 [Sleeky](https://github.com/Flynntes/Sleeky) 主题的汉化版，可见文本均已汉化，配置文件 (config.php) 中的注释也已完全汉化。
 
-Sleeky is a minimal interface package for use with [YOURLS](https://github.com/YOURLS/YOURLS), an open source URL shortener. Sleeky adds a public interface and overhauls the backend (admin) interface. Using this theme you can create your own Bitly / URL shortening site or a shortening site for internal use at companies.
+# 源库：
+- [Sleeky](https://github.com/Flynntes/Sleeky) 
+- [YOURLS](https://github.com/YOURLS/YOURLS)
 
-Sleeky is split into two parts - **frontend** and **backend**.
-* **Frontend** adds a public user interface. Use this for creating a branded URL shortener or shortening service.
-* **Backend** makes the YOURLS backend look a lot prettier and makes various administrative tasks easier.
 
-[**Sleeky website & demo**](https://sleeky.flynntes.com)
-
-# Screenshots
-![Frontend Screenshot](http://sleeky.flynntes.com/assets/img/slides/frontend.png)
-![Backend Screenshot](http://sleeky.flynntes.com/assets/img/slides/light_index.png)
+# 截图
+![12-12.jpg](https://s2.loli.net/2022/12/12/kMEvgNaPUnLX3yw.jpg)
+![cx121229.jpg](https://s2.loli.net/2022/12/12/DkM1c8sWyheqvaN.jpg)
+![cx121228.jpg](https://s2.loli.net/2022/12/12/DRAuEbxGiklNjH1.jpg)
 
 ## Quick Start
 1. Get a YOURLS install up and running.
