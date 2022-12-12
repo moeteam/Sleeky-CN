@@ -7,9 +7,9 @@
 
 # 截图
 ![12-12.jpg](https://s2.loli.net/2022/12/12/kMEvgNaPUnLX3yw.jpg)
-![cx121229.jpg](https://s2.loli.net/2022/12/12/DkM1c8sWyheqvaN.jpg)
-![cx121228.jpg](https://s2.loli.net/2022/12/12/DRAuEbxGiklNjH1.jpg)
-
+![121229.jpg](https://s2.loli.net/2022/12/12/DkM1c8sWyheqvaN.jpg)
+![121228.jpg](https://s2.loli.net/2022/12/12/DRAuEbxGiklNjH1.jpg)
+![121239.jpg](https://s2.loli.net/2022/12/12/kCJluRmbFEnqHhz.jpg)
 ## Quick Start
 1. Get a YOURLS install up and running.
 2. Clone this repo.
