@@ -1,4 +1,6 @@
-[YOURLS](https://github.com/YOURLS/YOURLS) 短网址程序下 [Sleeky](https://github.com/Flynntes/Sleeky) 主题的汉化版，可见文本均已汉化，配置文件 (config.php) 中的注释也已完全汉化。
+[YOURLS](https://github.com/YOURLS/YOURLS) 短网址程序下 [Sleeky](https://github.com/Flynntes/Sleeky) 主题的汉化版。
+
+所有可见文本均已汉化，配置文件 (config.php) 中的注释也已完全汉化。
 主题版本为：2.5.0，在 YOURLS 的 1.9.1 版本下测试可用。
 
 
