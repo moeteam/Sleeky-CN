@@ -1,0 +1,10 @@
+<div class="top" id="add">
+  <form id="new_url_form" action="javascript:add_link();" method="get">
+    <label>链接</label>
+    <input type="url" id="add-url" name="url" value="" class="text" placeholder="例如: https://google.com" required>
+    <label class="short">别名</label>
+    <input type="text" id="add-keyword" name="keyword" value="" class="text" placeholder="例如: dwz">
+    <input type="hidden" id="nonce-add" name="nonce-add" value="">
+    <input type="button" id="add-button" name="add-button" value="缩短" class="button" onclick="add_link();">
+  </form>
+</div>
