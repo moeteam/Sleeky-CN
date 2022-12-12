@@ -17,8 +17,8 @@
 1. 将整个“sleeky-backend”文件夹粘贴到“YOURLS”的`user/plugins/`目录中
 2. 进入“前端”文件夹
 2. 将“frontend”文件夹和“index.php”文件粘贴到“YOURLS”的根目录
-3. 打开 frontend/config.php 文件编辑网站信息或配置 reCAPTCHA
-*到此便已完成安装 Sleeky 的前端*
+3. 打开`frontend/config.php`文件编辑网站信息或配置 reCAPTCHA
+—— *到此便已完成安装 Sleeky 的前端*
 4. 前往管理员面板中的插件管理
 5. 启用插件列表中的“Sleeky Backend”插件
 6. 完成，前后端均已安装
