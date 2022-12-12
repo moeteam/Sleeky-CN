@@ -27,5 +27,5 @@
 
 
 ## 相关资源
-Need a hand? I would love to help you out! Head over to my [site](http://flynntes.com/contact). Alternatively, you could open an issue on GitHub or you could [tweet me](http://twitter.com/flynntes).
+- [YOURLS 汉化包](https://github.com/moeteam/yourls-zhcn) —— 适用于 YOURLS 最新版本的简体中文语言包
 
